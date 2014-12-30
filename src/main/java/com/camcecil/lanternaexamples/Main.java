@@ -1,4 +1,6 @@
-package com.camcecil.lanternaexamples; /**
+package com.camcecil.lanternaexamples;
+
+/**
  * Main.java
  *
  * @author Cam Cecil (github/scrapcode)
